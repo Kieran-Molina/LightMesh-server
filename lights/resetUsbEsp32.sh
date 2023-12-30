@@ -1,0 +1,1 @@
+usbreset 1a86:55d4

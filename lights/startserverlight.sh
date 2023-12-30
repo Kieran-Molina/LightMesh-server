@@ -1,0 +1,1 @@
+python ~/lights/rest_light.py
